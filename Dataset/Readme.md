@@ -1,3 +1,4 @@
+# Dataset Description
 The dataset used for this project, "Accident Severity Prediction," comes from the US Accidents dataset on Kaggle. It contains comprehensive accident data from February 2016 to December 2021, covering more than 49 states in the United States. The dataset includes over 2.8 million accident records, with features such as:
 
 Location (city, state, county, and coordinates)
